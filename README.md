@@ -95,5 +95,5 @@ Lung cancer remains one of the deadliest cancers worldwide, and early detection 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/lung-cancer-detection-GANs.git
-cd lung-cancer-detection-GANs
+git clone https://github.com/your-username/Lung-Cancer-Detection.git
+cd Lung-Cancer-Detection
