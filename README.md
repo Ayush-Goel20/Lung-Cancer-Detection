@@ -4,7 +4,7 @@
 
 Welcome to the official repository of our project titled **"Leveraging GANs, EfficientNet, and MobileNet for Enhanced Lung Cancer Detection"** — a research-based initiative to push the boundaries of medical imaging and AI in healthcare.
 
-📌 **Author:** Rashika Negi   
+📌 **Author:** Ayush Goel   
 🏫 **Institution:** Graphic Era Hill University, Dehradun, India  
 🧪 **Focus Area:** Deep Learning | Medical Imaging | Lung Cancer Segmentation & Classification
 
